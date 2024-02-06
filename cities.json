@@ -25,42 +25,6 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Nijar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-04-03T07:47:59.202Z",
-      "notes": "",
-      "position": {
-        "lat": "36.967508314568164",
-        "lng": "-2.13128394200588"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Real de Gandia",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-06T14:10:33.125Z",
-      "notes": "Real de Gandia",
-      "position": {
-        "lat": "38.94232097947902",
-        "lng": "-0.19775390625000003"
-      },
-      "id": 98443199
-    },
-    {
       "cityName": "Sant Julia de Loria",
       "country": "Andorra",
       "emoji": "🇦🇩",
@@ -71,6 +35,42 @@
         "lng": "1.489677429199219"
       },
       "id": 98443200
+    },
+    {
+      "cityName": "Rodeiro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-06T15:13:24.676Z",
+      "notes": "",
+      "position": {
+        "lat": "42.56926437219384",
+        "lng": "-7.954101562500001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Don Benito",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-06T15:19:34.654Z",
+      "notes": "",
+      "position": {
+        "lat": "39.095962936305476",
+        "lng": "-5.73486328125"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-02-06T15:20:03.835Z",
+      "notes": "",
+      "position": {
+        "lat": "48.855566953673204",
+        "lng": "2.3467826843261723"
+      },
+      "id": 98443203
     }
   ]
 }
